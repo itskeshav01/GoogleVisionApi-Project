@@ -1,0 +1,26 @@
+{
+  "name": "tesserect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^3.0.1",
+    "natural": "^5.2.3",
+    "nodemon": "^2.0.20",
+    "pdf2pic": "^2.1.4",
+    "pdftoimage": "^1.0.0",
+    "redis": "^4.5.0",
+    "sharp": "^0.31.2",
+    "tesseract.js": "^3.0.3",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "pdf-to-png-converter": "^2.6.0"
+  }
+}
